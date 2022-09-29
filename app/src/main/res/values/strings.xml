@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Football Teams</string>
+    <string name="custom_tab_url">https://google.com/</string>
+    <string name="title_activity_preloader">PreloaderActivity</string>
+</resources>
